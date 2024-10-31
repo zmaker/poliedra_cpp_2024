@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730398796 source:c:\users\paolo\desktop\github\poliedra_cpp_2024\l02\p03_stampa_dati\main.cpp
+	<iostream>
+	<string>
+
