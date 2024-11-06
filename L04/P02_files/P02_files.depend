@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730915776 source:c:\users\paolo\desktop\github\poliedra_cpp_2024\l04\p02_files\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
