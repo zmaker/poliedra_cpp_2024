@@ -1,0 +1,1 @@
+rossi,mario,23.8
