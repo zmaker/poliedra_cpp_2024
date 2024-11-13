@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731521175 source:c:\users\paolo\desktop\github\poliedra_cpp_2024\l07\p07_indovina_numero\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
