@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731608987 source:c:\users\paolo\desktop\github\poliedra_cpp_2024\l08\p06_array_char\main.cpp
+	<iostream>
+	<cstring>
+
