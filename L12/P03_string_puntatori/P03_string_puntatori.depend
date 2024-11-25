@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732559806 source:c:\users\paolo\desktop\github\poliedra_cpp_2024\l12\p03_string_puntatori\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

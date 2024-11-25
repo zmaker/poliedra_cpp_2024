@@ -6,6 +6,9 @@ using namespace std;
 
 void toUp(string *ps) {
 
+  for (int i = 0; i < (*ps).size(); i++) {
+    (*ps)[i] = toupper((*ps)[i]);
+  }
 }
 
 int main()
@@ -15,7 +18,7 @@ int main()
     string str = "hello world!";
     cout << "str: " << str << endl;
 
-    toUp(str);
+    toUp(&str);
 
     cout << "str: " << str << endl;
 
