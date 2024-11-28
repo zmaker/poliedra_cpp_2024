@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732818581 source:c:\users\paolo\desktop\github\poliedra_cpp_2024\l14\p04_multi\main.cpp
+	<iostream>
+	"Rect.h"
+
+1732818114 c:\users\paolo\desktop\github\poliedra_cpp_2024\l14\p04_multi\rect.h
+
+1732818597 source:c:\users\paolo\desktop\github\poliedra_cpp_2024\l14\p04_multi\rect.cpp
+	<iostream>
+	"Rect.h"
+
